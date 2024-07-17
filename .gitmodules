@@ -1,0 +1,3 @@
+[submodule "front-vue"]
+    path = front-vue
+    url = <submodule-url>
